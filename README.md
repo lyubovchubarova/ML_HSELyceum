@@ -5,7 +5,7 @@
 Преподаватель в тг @lyuba_chuba
 
 ## Оценивание
-[Ссылка на таблицу с оценками]()
+[Ссылка на таблицу с оценками](https://docs.google.com/spreadsheets/d/1hQoJ9ReIdqRuwLB-XSkDWn-HM4nN6PTJiK7G2rjCZaE/edit?usp=sharing)
 
 **Формула оценки**: 0,25*ДЗ + 0,25*квизы + 0,25*КР + 0,25*проект
 
