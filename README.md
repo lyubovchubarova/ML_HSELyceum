@@ -48,4 +48,7 @@
 - [Хэндбук Яндекса по машинному обучению](https://education.yandex.ru/handbook/ml) (для сильных духом)
 - [Конспекты курса по ML от Е.А. Соколова, ПМИ ФКН ВШЭ](https://github.com/esokolov/ml-course-hse)
 - [Документация scikit-learn про разные методы препроцессинга данных перед подачей в модель](https://scikit-learn.org/stable/modules/preprocessing.html)
-- 
+- [Статья на Хабре про джейбрейки gpt](https://habr.com/ru/companies/kaspersky/articles/735672/)
+- [Github с огромным количеством способов взломать GPT (английский)](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting)
+- [Про Андрея Анатольевича Зализняка и основы прикладной лингвистики](https://habr.com/ru/companies/ncloudtech/articles/749302/)
+- [Про то, как классическая прикладная лингвистика проиграла нейросетям](https://sysblok.ru/blog/gorkij-urok-abbyy-kak-lingvisty-proigrali-poslednjuju-bitvu-za-nlp/)
