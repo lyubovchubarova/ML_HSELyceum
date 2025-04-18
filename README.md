@@ -33,14 +33,14 @@
 | 8 марта | ВЫХОДНОЙ                                                                       |        |
 | 15 марта | Работа с текстом. Классификация. [Презентация by ИМШ ВК](NLP_basics/NLP_masterclass.pdf). [Практика](NLP_basics/NLP_practicum.ipynb)                                                                   |    [ДЗ4, классификация отзывов](NLP_basics/NLP_practicum.ipynb), дедлайн 30 марта   |
 | 22 марта |  Кластеризация. [Презентация by ИМШ ВК](clustering/Lecture06-clustering.pdf). [Практика](clustering/clustering_practice.ipynb)                                           |        |
-| 29 марта   |  **КОНТРОЛЬНАЯ aka коллоквиум 1** [билеты](exam1_tasks.ipynb)                                                  |    ДЗ6, кластеризация    |
+| 29 марта   |  **КОНТРОЛЬНАЯ aka коллоквиум 1** [билеты](exam1_tasks.ipynb)                                                  |       |
 | 5 апреля   |  Весенние каникулы. ВЫХОДНОЙ.                                                                |        |
-| 12 апреля   |  Решающие деревья, [конспект by ИМШ ВК](descision_trees/Лекция 7.pdf), [практикум](descision_trees/descision_trees_practice.ipynb)                                                                           |        |
-| 19 апреля  | Композиции моделей                                                                |        |
-| 26 апреля  | Градиентный бустинг + **КОНТРОЛЬНАЯ aka коллоквиум2**                                              |    ДЗ7, деревья    |
+| 12 апреля   |  Решающие деревья, [конспект by ИМШ ВК](descision_trees/vk_lecture.pdf), [практикум](descision_trees/descision_trees_practice.ipynb)                                                                           |        |
+| 19 апреля  | Композиции моделей. [Лекция ИМШ](ensembles/vk_ensembles.pdf), [конспект Е.А.Соколова](ensembles/sokolov_ensembles.pdf). Градиентный бустинг, [лекция ИМШ](ensembles/vk_boosting.pdf), [конспект Е.А. Соколова](ensembles/sokolov_boosting.pdf)                                                              |   ДЗ6, деревья      |
+| 26 апреля  | ПРОПУСК                                            |       |
 | 3 мая  |    ВЫХОДНОЙ                                                              |        |
 | 10 мая     | ВЫХОДНОЙ                                                                          |        |
-| 17 мая     | Защита  проектов                                                                  |        |
+| 17 мая     | Письменная работа по деревьям. Защита  проектов.                                                                  |   [Описание и критерии по проектам]()     |
 | 24 мая     | Сюрприз                                                                           |        |
 
 
