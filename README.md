@@ -36,7 +36,7 @@
 | 29 марта   |  **КОНТРОЛЬНАЯ aka коллоквиум 1** [билеты](exam1_tasks.ipynb)                                                  |       |
 | 5 апреля   |  Весенние каникулы. ВЫХОДНОЙ.                                                                |        |
 | 12 апреля   |  Решающие деревья, [конспект by ИМШ ВК](descision_trees/vk_lecture.pdf), [практикум](descision_trees/descision_trees_practice.ipynb)                                                                           |        |
-| 19 апреля  | Композиции моделей. [Лекция ИМШ](ensembles/vk_ensembles.pdf), [конспект Е.А.Соколова](ensembles/sokolov_ensembles.pdf). Градиентный бустинг, [лекция ИМШ](ensembles/vk_boosting.pdf), [конспект Е.А. Соколова](ensembles/sokolov_boosting.pdf)                                                              |   ДЗ6, деревья      |
+| 19 апреля  | Композиции моделей. [Лекция ИМШ](ensembles/vk_ensembles.pdf), [конспект Е.А.Соколова](ensembles/sokolov_ensembles.pdf). Градиентный бустинг, [лекция ИМШ](ensembles/vk_boosting.pdf), [конспект Е.А. Соколова](ensembles/sokolov_boosting.pdf)                                                              |   [ДЗ6, деревья](ensembles/hw_trees.ipynb)      |
 | 26 апреля  | ПРОПУСК                                            |       |
 | 3 мая  |    ВЫХОДНОЙ                                                              |        |
 | 10 мая     | ВЫХОДНОЙ                                                                          |        |
